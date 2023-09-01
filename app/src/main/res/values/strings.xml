@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ProjectManagementApp</string>
+    <string name="logo">Logo</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password1">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="you_have_an_account">You have an account?</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="submit">Submit</string>
+    <string name="hi">Hi,</string>
+    <string name="hd_email">user@gmail.com</string>
+    <string name="Projects">PROJECTS</string>
+    <string name="Tasks">TASKS</string>
+    <string name="Profile">MY PROFILE</string>
+    <string name="Username">Username</string>
+    <string name="logout">LOGOUT</string>
+    <string name="bottom_text">Powered by INSPIRED</string>
+    <string name="edit_profile">Edit Your Profile</string>
+    <string name="update">Update</string>
+</resources>
